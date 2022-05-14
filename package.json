@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://3.110.88.42:9980/mithuntechnologies/repository/nodejs-repo/"
+    "registry": "http://13.234.67.241:9980/RamNexus/repository/nodejsrepo/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
